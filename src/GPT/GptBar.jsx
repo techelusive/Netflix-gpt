@@ -1,7 +1,4 @@
 
-
-
-
 const GptBar = () => {
 
     return (
@@ -9,9 +6,9 @@ const GptBar = () => {
             <form className="p-6">
                 <input type="text" 
                 className="p-4 m-4" 
-                placeholder="" 
+                placeholder="search movies & webshows" 
                 />
-                <button className="">Search</button>
+                <button >Search</button>
             </form>
         </div>
     );
