@@ -1,6 +1,6 @@
 import Header from "./Header";
 import useNowPlayingMovies from "../hooks/useNowPlayingMovies";
-import MainContainer from "../containers/MainContainer"
+import MainContainer from "../containers/MainContainer";
 import SecondaryContainer from "../containers/SecondaryContainer";
 import usePopularMovies from "../hooks/usePopularMovies";
 import useUpcomingMovies from "../hooks/useUpcomingMovies";
